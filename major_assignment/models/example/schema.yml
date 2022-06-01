@@ -1,0 +1,11 @@
+
+version: 2
+
+models:
+
+  - name: average
+    description: "To calculate average of nav, repurchase and sale price of each schema"
+
+
+  - name: minmax
+    description: "minimum and maximum of each scheme"
